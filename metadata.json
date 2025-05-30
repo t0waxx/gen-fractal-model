@@ -1,0 +1,5 @@
+{
+  "name": "3D Fractal Explorer",
+  "description": "An interactive web application to generate, visualize, and export various 3D fractals like Sierpinski Tetrahedron, Menger Sponge, and Sierpinski Octahedron. Customize fractal parameters, lighting, and explore in a 3D view.",
+  "requestFramePermissions": []
+}
